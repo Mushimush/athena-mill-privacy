@@ -12,17 +12,19 @@ BECO VENTURES PTE. LTD. ("we", "us", or "our") operates the Athena Mill mobile a
 
 The app requires camera permission (android.permission.CAMERA) to:
 
-- Take photos during inspections
-- Document safety issues
-- Capture critical failures
-- Upload visual evidence for reports
+- Take photos during inspections of manufacturing equipment and facilities
+- Document safety issues such as broken machinery, hazardous conditions, or compliance violations
+- Capture critical failures like equipment malfunctions or structural damage
+- Upload visual evidence for detailed inspection reports and maintenance records
+
+When you use the camera feature in Athena Mill, each photo is tagged with relevant metadata (such as location, timestamp, and inspection category) to create comprehensive documentation. For example, when documenting a machine failure, your photo will be directly linked to that specific equipment's maintenance history, allowing maintenance teams to quickly assess the issue and implement repairs.
 
 These photos are:
 
-- Stored securely on our servers
-- Used only for inspection and documentation purposes
-- Accessible only to authorized personnel
-- Deleted when no longer needed for business purposes
+- Stored securely on our servers using AES-256 encryption
+- Used only for inspection documentation, compliance verification, and maintenance planning
+- Accessible only to authorized personnel within your organization's permission structure
+- Deleted when no longer needed for business purposes (typically after 3 years or as specified by your organization's data retention policy)
 
 ### Storage and Security
 
