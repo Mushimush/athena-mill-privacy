@@ -26,6 +26,22 @@ These photos are:
 - Accessible only to authorized personnel within your organization's permission structure
 - Deleted when no longer needed for business purposes (typically after 3 years or as specified by your organization's data retention policy)
 
+### Microphone Permission
+
+The app requires microphone permission to:
+
+- Record audio notes during equipment inspections
+- Document verbal descriptions of machinery conditions and issues
+- Record ambient sound levels for equipment performance analysis
+- Capture voice memos for maintenance reports
+
+For example, when inspecting a conveyor system, inspectors can record audio notes describing specific wear patterns or unusual sounds from bearings, which helps maintenance teams diagnose issues more accurately. Audio recordings are:
+
+- Encrypted and stored securely alongside related inspection data
+- Used only for inspection documentation and maintenance planning
+- Accessible only to authorized maintenance personnel
+- Automatically deleted after 3 years or as per your organization's retention policy
+
 ### Storage and Security
 
 - All photos and data are encrypted during transmission
